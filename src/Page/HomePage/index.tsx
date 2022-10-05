@@ -26,6 +26,9 @@ const HomePage: React.FC = () => {
             </NabBarContainerDiv>
             <MainContainerDiv>
                 <Posts />
+                <Posts />
+                <Posts />
+                <Posts />
             </MainContainerDiv>
         </>
     );
